@@ -1,1 +1,74 @@
 https://github.com/darciajo-lang/Mon-portfolio.git
+<!DOCTYPE html>
+<html lang=" fr">
+   <head>
+    <meta charset="UTF-8">
+<title> MON PORTFOLIO </title>
+    <link rel="stylesheet"href="style.css">
+    </head>
+
+
+    <body>
+
+      <img src="MAMISOA.jpg" alt="Ma photo" 
+      width="120">
+        <header>
+            <h1>RAHARINIRINA Joséa Darcia</h1>
+     <p>BIENVENUE DANS MON PORTFOLIO</p>
+              <section id="about"class="reveal">
+                <img src="photo.jpg"class="MAMISOA">
+              </section>
+     <nav>
+       <h2> <a href="#about">A PROPOS </a></h2>
+        <p> je me suis fait appeller RAHARINIRINA Joséa Darcia</p>
+           <p> je suis née le 01 Mai 2006 à MAJUNGA à la Maternité de Mahabibo</p>
+
+          <a href="#about">mon etablissement</a> : ECOLE DE MANAGEMENT ET D'INNOVATION
+        TECHNOLOGIQUE
+           <p>je suis une etudiante de niveau L1 en developpement d'application d'internet et d'intranet</p>
+           <p>je suis passionné par la programmation c'est qui ma poussé a 
+            m'inscrire dans une ecole d'informatique</p>
+            <p> j'ai crée des site avec HTML,CSS,JAVA SCRIPT </p>
+           <p> j'apprend actuellement à geré, HTLM , CSS , JAVA SCRIPT, pour m'aide a la creation des projet</p>
+         
+             <a href="#about">mes diplome</a>
+        <P><a href="#about"> 2017:  </a> CEPE</P>
+        <p><a href="#about">2021:   </a>BEPC</p>
+        <P><a href="#about">2024:   </a>BACCALAUREAT</P>
+        
+        
+            <a href="#about">mes loisirs</a>
+            <p><a href="#about">mes sport:              </a></p>
+            <p>basket-ball</p>
+            <p>hand-ball</p>
+            <p>tennis</p>
+
+           <h2><a href="#skills">MES COMPETENCE</a></h2>
+            <p><a href="#about">mon niveau languistique</a></p>
+            <p><a href="#about">Français</a>:           très bien</p>
+            <p><a href="#about">Anglais</a>:            assez bien</p> 
+            <p><a href="#about">Italien</a>:            assez bien</p> 
+            <p><a href="#about">MALAGASY</a>:     langage Maternelle</p>
+            <div class="card">HTML</div>
+            <div class="card">CSS</div>
+            <div class="card">JAVA SCRIPT</div>
+            <div class="card">GITHUB</div>
+            
+
+
+
+            <h2><a href="#project">MES PROJET</a></h2>
+            <P><a href="#about">projet realisé</a></P>
+            <p><a href="#about ">ARDUINO</a>:           simulation de branchement de LED  </p>
+            <p><a href="#about">GITHUB</a>:               création de site web </p>
+            <p><a href="#about">PORTFOLIO</a>:                 création de mon portfolio</p>
+        </nav>
+
+        <h2><a href="#contact">MES CONTACT</a></h2>
+        <p><a href="#about">EMAIL </a>:         darcia@jo</p>
+        <p><a href="#about">GITHUB</a>:         darcia-lang</p>
+        <p><a href="#about">WHATSAPPS</a>:     0389681923</p>
+        <P><a href="#about">FACEBOOK</a>:     joéa Darcia Raharinirina </P>
+        <p><a href="#about">INSTAGRAM</a>:  diih RH</p>
+        <p><a href="#about">TELEPHONE</a>:      0389681923/ 0374487514</p>
+        
